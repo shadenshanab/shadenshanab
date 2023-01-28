@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaden Shanab</h1>
 <h3 align="center">A passionate full-stack software developer from Jordan</h3>
 
-- 🔭 I’m currently working on [Image Colorization Application](https://github.com/baird-ai/image-colorization)
-
-- 🌱 I’m currently learning **Django, Next, and TensorFlow**
+- 🌱 I’m currently learning **Natural language processing and TensorFlow**
 
 - 📫 How to reach me **shadenshanab2@gmail.com**
 
